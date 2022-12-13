@@ -9,7 +9,7 @@ If you dont want to setup the project all you need to do is to go into "Debug/" 
 Just go into the "Music/" folder and place all ".mp3" files there, the app should detect them (if already open, restart)
 
 <h2>Dependencies:</h2>
-SDL2<p>
-SDL2_image<p>
-SDL2_Mix<p>
-Dirent.h<p>
+SDL2<p></p>
+SDL2_image<p></p>
+SDL2_Mix<p></p>
+Dirent.h<p></p>
