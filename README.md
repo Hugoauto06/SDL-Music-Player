@@ -13,3 +13,4 @@ SDL2<p></p>
 SDL2_image<p></p>
 SDL2_Mix<p></p>
 Dirent.h<p></p>
+![imagen](https://user-images.githubusercontent.com/7256585/207291675-113b3be5-9c49-49d1-b970-72a19141c1a4.png)
